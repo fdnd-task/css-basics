@@ -1,5 +1,5 @@
 
-# Your Tribe - CSS Basics
+# CSS Basics
 
 ![Visitekaarte](visitekaartje.jpg)
 
